@@ -23,7 +23,7 @@ global.dana = '6282331494758'
 global.pulsa = '62895324080019'
 global.gopay = '6281395861695'
 global.namebot = 'Bot Genzai'
-global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
+global.gc = 'https://chat.whatsapp.com/FCIoR9K6AN27ccgp1db029'
 global.web = 'https://github.com/'
 global.instagram = 'https://instagram.com/genzai666'
 global.wm = '© Genzai'
@@ -41,7 +41,7 @@ global.author = 'Bot WhatsApp'
 
 //==> Apikey
 global.lann = 'ADpwijNY' //isi apikey mu https://api.betabotz.org
-global.btc = 'Your_Key_Here'//Isi apikey di https://api.botcahx.live
+global.btc = 'ZakkId9W'//Isi apikey di https://api.botcahx.live
 global.APIs = {   
   lann: 'https://api.betabotz.org',
   btc: 'https://api.botcahx.live'
