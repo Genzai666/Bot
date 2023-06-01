@@ -193,13 +193,13 @@ contextInfo: {
 externalAdReply: { showAdAttribution: true, 
 title: ucapan() + ' ' + name,
 body: 'bodynya',
-thumbnailUrl: "https://telegra.ph/file/dc5a67d724b016574129b.jpg",
+thumbnailUrl: "https://telegra.ph/file/955e4fac2774226e809c4.jpg",
 sourceUrl: "https://chat.whatsapp.com/FCIoR9K6AN27ccgp1db029",
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: ftroli})
       /**
-await conn.sendFile(m.chat, 'https://telegra.ph/file/dc5a67d724b016574129b.jpg', 'menu.jpg', text, ftroli)**/
+await conn.sendFile(m.chat, 'https://telegra.ph/file/955e4fac2774226e809c4.jpg', 'menu.jpg', text, ftroli)**/
   } catch (e) {
     conn.reply(m.chat, 'Maaf, menu sedang error', m)
     throw e
