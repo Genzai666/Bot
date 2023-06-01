@@ -34,7 +34,7 @@ let tags = {
 const defaultMenu = {
   before: `
   Hi %name
-I am an Automatic ( Betabotz - Md Whatsapp Bot) that can help you with various needs such as downloading videos, making stickers, etc 
+I am an Automatic ( Genzaibotz - Md Whatsapp Bot) that can help you with various needs such as downloading videos, making stickers, etc 
 
 *-----------[ Info Bot ]-----------*
 √  *Library:* Baileys
@@ -194,7 +194,7 @@ externalAdReply: { showAdAttribution: true,
 title: ucapan() + ' ' + name,
 body: 'bodynya',
 thumbnailUrl: "https://telegra.ph/file/dc5a67d724b016574129b.jpg",
-sourceUrl: "https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r",
+sourceUrl: "https://chat.whatsapp.com/FCIoR9K6AN27ccgp1db029",
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: ftroli})
